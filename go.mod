@@ -8,7 +8,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prysmaticlabs/prysm v1.4.2-0.20210927203955-328e3e6caf83
 	github.com/sirupsen/logrus v1.7.0
-	google.golang.org/grpc v1.37.0
+	google.golang.org/grpc v1.53.0
 )
 
 replace github.com/ethereum/go-ethereum => github.com/prysmaticlabs/bazel-go-ethereum v0.0.0-20210707101027-e8523651bf6f
